@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://vanilla.studio.com</id>
+    <id>https://vanilla.web</id>
     <title>Gridea</title>
-    <updated>2023-07-20T02:06:15.539Z</updated>
+    <updated>2023-07-20T02:07:23.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://vanilla.studio.com"/>
-    <link rel="self" href="https://vanilla.studio.com/atom.xml"/>
+    <link rel="alternate" href="https://vanilla.web"/>
+    <link rel="self" href="https://vanilla.web/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://vanilla.studio.com/images/avatar.png</logo>
-    <icon>https://vanilla.studio.com/favicon.ico</icon>
+    <logo>https://vanilla.web/images/avatar.png</logo>
+    <icon>https://vanilla.web/favicon.ico</icon>
     <rights>All rights reserved 2023, Gridea</rights>
 </feed>
